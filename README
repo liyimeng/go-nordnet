@@ -1,2 +1,9 @@
  Sample code to access nordnet serivce(https://api.test.nordnet.se/projects/api/wiki) in Golang. 
+ 
+ To use the code:
+ 
+ - make sure you have Golang installed
+ - checkout the repo 
+ - cd into your repo, run with issue commend: go run *.go -user=<your username> -pass="your pass"
+ 
 
